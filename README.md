@@ -1,3 +1,3 @@
 # trickz
 
-curl -s http://server/path/script.sh | bash -s 
+curl -s https://raw.githubusercontent.com/Alepefe/trickz/main/swap.sh | bash -
