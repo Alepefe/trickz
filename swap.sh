@@ -1,5 +1,5 @@
 apt update
-apt install docker.io
+apt install -y docker.io
 
 fallocate -l 2G /swapfile
 dd if=/dev/zero of=/swapfile bs=1024 count=2097152
